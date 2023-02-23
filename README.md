@@ -1,22 +1,18 @@
 # Hi there, I'm 𝗯𝗮𝗽𝗶𝗰 ቀ
 
-I'm a software developer and music producer, with passions for visual design, solving hard problems and long-distance running. I love creating beautiful and functional applications and businesses that make a difference in people's lives.
+I'm a web3 software developer, UI/UX Designer, Business Developer & Music Producer, with passions for visual design, solving hard, interesting problems and long-distance running. I love creating beautiful, functional applications and businesses that make a difference in people's lives.
 
-## 💻 Technologies & Tools
+## 💻 Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🤖 Tech Stack
+## 🛠️ Visual Tools
 
--   HTML/CSS
--   JavaScript
--   React
--   Node.js
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## 🎨 Visual Design
 
-I love creating aesthetically pleasing designs, whether it be web or graphic design. I have worked on several projects where I have been responsible for designing UI/UX. My design philosophy is to make interfaces as simple and intuitive as possible.
+I love creating aesthetically pleasing designs, whether it be web, graphic or motion design. I have worked on several projects where I have been responsible for designing UI/UX. My design philosophy is to make interfaces as simple and intuitive as possible.
 
 ## 🎵 Music Production
 
@@ -29,6 +25,7 @@ I have been an avid runner since I was very young, and participate in 5Ks, 10Ks,
 ### Running Stats
 
 ```text
+                Waking Hours Used
 Running      ████████████████████████░   96.43 %
 Rest         █░░░░░░░░░░░░░░░░░░░░░░░░   3.57 %
 ```
@@ -45,7 +42,3 @@ You can find me on various social media platforms:
 -   [Instagram](https://www.instagram.com/itsbapic/)
 
 Feel free to reach out to me for collaborations, code reviews, or just to say hello! 😄
-
-```
-
-```
